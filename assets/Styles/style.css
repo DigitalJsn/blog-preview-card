@@ -20,7 +20,7 @@
 }
 
 main {
-   
+    height: 100dvh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -28,7 +28,6 @@ main {
 }
 
 body {
-    height: 100dvh;
     background-color: var(--Yellow);
     font-family: var(--font-family);
 }
