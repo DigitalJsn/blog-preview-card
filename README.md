@@ -24,11 +24,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
   ### Screenshot
 
-    ![](./Blog-card-screenshot.png)
+  ![](./blog-card-screenshot.png)
 
   ### Links
 
-    - Solution URL: (https://digitaljsn.github.io/blog-preview-card/)
+  - Solution URL: (https://digitaljsn.github.io/blog-preview-card/)
 
 ## My process
 
