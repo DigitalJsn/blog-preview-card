@@ -20,7 +20,7 @@
 }
 
 main {
-    height: 95dvh;
+    height: 100dvh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -129,4 +129,8 @@ p {
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+footer {
+    margin-top: -5dvh;
 }
